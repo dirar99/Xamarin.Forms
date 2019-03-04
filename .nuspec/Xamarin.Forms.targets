@@ -146,7 +146,7 @@
 
   <!-- 
     Platform Specific Targets.
-    We can't use a framework specific targets file because it breaks shared projects i.e.  /build/MonoAndroid10/Xamarin.Forms.targetts
+    We can't use a framework specific targets file because it breaks shared projects i.e.  /build/MonoAndroid10/Xamarin.Forms.targets
   -->
   
   <!-- MonoAndroid targets. -->
